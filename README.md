@@ -27,7 +27,6 @@ La aplicación simula la carga inicial de tareas y usuarios mediante funciones a
 
 ## Tecnologías utilizadas
 
-* HTML
 * JavaScript
 * Consola del navegador o Node.js
 
